@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="building-pin-locations" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3E3D42;}
+	.st1{fill:#E0E0E2;}
+	.st2{fill:#2488FF;}
+	.st3{fill:#B39A7C;}
+	.st4{fill:#957856;}
+	.st5{fill:#D80027;}
+	.st6{fill:#FF5023;}
+	.st7{fill:#FFDA44;}
+	.st8{fill:#003F8A;}
+	.st9{fill:#2D2D30;}
+	.st10{fill:#006DF0;}
+</style>
+<path class="st0" d="M78.7,380.2h275.9v20.7H78.7V380.2z"/>
+<path class="st1" d="M99.4,90.6h275.9v289.7H99.4V90.6z"/>
+<path class="st2" d="M216.6,118.2H258v55.2h-41.4V118.2z"/>
+<path class="st2" d="M306.3,118.2h41.4v55.2h-41.4V118.2z"/>
+<path class="st2" d="M306.3,200.9h41.4v55.2h-41.4V200.9z"/>
+<path class="st0" d="M395.9,63v27.6h-20.7H99.4H78.7V63H395.9z"/>
+<path class="st3" d="M271.8,338.9v41.4h-69v-41.4c0-19,15.4-34.5,34.5-34.5S271.8,319.8,271.8,338.9z"/>
+<path class="st4" d="M240.8,304.7c-1.2-0.1-2.3-0.3-3.4-0.3c-19,0-34.5,15.4-34.5,34.5v41.4h6.9v-41.4
+	C209.8,321.2,223.2,306.4,240.8,304.7z"/>
+<path class="st2" d="M216.6,200.9H258v55.2h-41.4V200.9z"/>
+<path class="st2" d="M127,200.9h41.4v55.2H127V200.9z"/>
+<ellipse class="st5" cx="368.3" cy="445.8" rx="48.3" ry="17.2"/>
+<path class="st6" d="M437.3,325.1c0,38.1-69,117.2-69,117.2s-69-79.2-69-117.2c0-38.1,30.9-69,69-69S437.3,287,437.3,325.1z"/>
+<circle class="st7" cx="368.3" cy="325.1" r="27.6"/>
+<path class="st8" d="M202.8,166.4h69v13.8h-69V166.4z"/>
+<path class="st8" d="M292.5,166.4h69v13.8h-69V166.4z"/>
+<path class="st8" d="M113.2,249.2h69V263h-69V249.2z"/>
+<path class="st8" d="M202.8,249.2h69V263h-69V249.2z"/>
+<path class="st8" d="M292.5,249.2h55.2V263h-55.2V249.2z"/>
+<path class="st9" d="M99.4,90.6h275.9v6.9H99.4V90.6z"/>
+<path class="st2" d="M127,118.2h41.4v55.2H127V118.2z"/>
+<g>
+	<path class="st10" d="M127,118.2v43.3l36.6-43.3L127,118.2z"/>
+	<path class="st10" d="M216.6,118.2v43.3l36.6-43.3L216.6,118.2z"/>
+	<path class="st10" d="M306.3,118.2v43.3l36.6-43.3L306.3,118.2z"/>
+	<path class="st10" d="M306.3,200.9v43.3l36.6-43.3H306.3z"/>
+	<path class="st10" d="M216.6,200.9v43.3l36.6-43.3H216.6z"/>
+	<path class="st10" d="M127,200.9v43.3l36.6-43.3H127z"/>
+</g>
+<path class="st8" d="M113.2,166.4h69v13.8h-69V166.4z"/>
+</svg>
